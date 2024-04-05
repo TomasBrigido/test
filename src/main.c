@@ -10,6 +10,15 @@ int main(int argc, char *argv[])
     greetings();
     printf("Calling shared lib from main program. I get'%d'\n", shared_lib_function("Hello, OS II"));
     printf("Calling static lib from main program. I get'%d'\n", static_lib_function("Bye, OS II"));
+asdasd
+asdasd
+asd
+asd
+as
+das
+das
+das
+d
 
     return 0;
 }
